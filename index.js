@@ -20,4 +20,3 @@ function calculatesFarePrice(start, destination){
    
 
 }
-console.log(calculatesFarePrice())
